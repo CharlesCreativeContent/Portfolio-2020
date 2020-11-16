@@ -4,11 +4,10 @@ HTML5, CSS3, Sass, Javascript - Portfolio Site including links to my projects an
 
 **Link to site:** https://www.shawncharles.com
 <img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true"></img>
-![alt tag](https://github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true)
 
 ## How It's Made:
 
-**Tech used:** HTML5, CSS3, JavaScript
+**Tech used:** HTML5, CSS3, Sass, JavaScript
 
 My learning was focused on the changing of the source of an image element, and techniques to make a standard size for non-standard images. Workd very well for desktop, but the mobile version still needs some media qeuries
 
