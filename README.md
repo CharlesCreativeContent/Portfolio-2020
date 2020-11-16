@@ -3,8 +3,8 @@
 HTML5, CSS3, Sass, Javascript - Portfolio Site including links to my projects and ways to get in contact with me.
 
 **Link to site:** https://www.shawncharles.com
-
-![alt tag](https://www.github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true)
+<img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true"></img>
+![alt tag](https://github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true)
 
 ## How It's Made:
 
