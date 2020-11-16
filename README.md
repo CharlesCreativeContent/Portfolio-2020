@@ -4,7 +4,7 @@ HTML5, CSS3, Sass, Javascript - Portfolio Site including links to my projects an
 
 **Link to site:** https://www.shawncharles.com
 
-![alt tag](/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true)
+![alt tag](https://www.github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true)
 
 ## How It's Made:
 
